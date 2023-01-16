@@ -9,8 +9,8 @@ you can use the function print2dArr(list) to print out your array in a more read
 Example:
 The following pattern would be considered Still life (a pattern which does not change after a generation) on a toroidal array because each live element have exactly 3 neighbours at the toroids stiched edges.
 
-'''
+
 [   1,   0,   0,   1]
 [   0,   0,   0,   0]
 [   0,   0,   0,   0]
-[   1,   0,   0,   1]'''
+[   1,   0,   0,   1]
