@@ -11,6 +11,9 @@ The following pattern would be considered Still life (a pattern which does not c
 
 
 [   1,   0,   0,   1]
+
 [   0,   0,   0,   0]
+
 [   0,   0,   0,   0]
+
 [   1,   0,   0,   1]
